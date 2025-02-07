@@ -128,3 +128,14 @@ footer {
     background: #111;
     margin-top: 50px;
 }
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.hero-image {
+    width: 100%;
+    max-width: 800px; /* Adjust this to fit the design */
+    height: auto;
+    margin-bottom: 20px;
+}
